@@ -57,7 +57,7 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
     alignItems: 'flex-start',
     padding: 20,
-    backgroundColor: '#10E689',
+    backgroundColor: '#0ECC7A',
   },
   offline: {
     position: 'absolute',
@@ -72,6 +72,7 @@ const styles = StyleSheet.create({
   },
   text: {
     color: '#FFF',
+    fontWeight: 'bold',
   },
 });
 
